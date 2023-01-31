@@ -1,6 +1,6 @@
 {
-    "name": "Stable Diffusion 2.1",
-    "category": "Computer Vision",
+    "name": "Santacoder",
+    "category": "Natural Language",
     "example_input": {
         "max_new_tokens": 91,
         "prompt": "def is_prime(element):\n'''Returns whether a number is prime.'''"
